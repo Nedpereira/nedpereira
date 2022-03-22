@@ -14,7 +14,7 @@
   <img align="center" alt="Ned-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ned-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ned-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ned-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/417077046871588884/955893834905182268/download20220302150702.png?width=676&height=500">
+  <img align="right" alt="Ned-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/417077046871588884/955893834905182268/download20220302150702.png?width=676&height=500">
 </div>
 
 ##
