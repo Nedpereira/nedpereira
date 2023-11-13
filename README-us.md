@@ -13,10 +13,5 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=blue&width=800&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;My+name+is+Neder+"Ned"+Pereira;I'm+a+Front-End+Developer+for+Web/Mobile+and+UX/UI;Currently+studying+Analysis+and+Systems+Development+%F0%9F%8E%93)](https://git.io/typing-svg)
-=
-
-</div>
+<p style="font-family: 'Roboto', sans-serif; font-size: 14px;">My name is Neder Pereira, and I'm a frontend web and mobile developer. I've been working with technology since 2021.</p>
 
