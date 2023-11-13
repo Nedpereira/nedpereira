@@ -2,7 +2,7 @@
 
 <div align="right">
 
-#### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/Nedpereira/Nedpereira/blob/main/README.md)</kbd>
+#### Perfil em Português: [<kbd><img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22"></kbd>](https://github.com/Nedpereira/Nedpereira/blob/main/README.md)
 
 </div>
 
