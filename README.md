@@ -13,7 +13,8 @@
 
 </div>
 
-<p>Meu nome é Neder "Ned" Pereira, e sou desenvolvedor frontend web e mobile, trabalhando com tecnologia desde 2021.</p>
+<p style="font-family: 'Roboto', sans-serif; font-size: 14px;">Meu nome é Neder Pereira, e sou desenvolvedor frontend web e mobile, trabalhando com tecnologia desde 2021.</p>
+
 
 
 
