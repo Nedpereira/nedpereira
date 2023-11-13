@@ -9,7 +9,7 @@
 <div align="right">
 <br>
 
-![profile-views](https://komarev.com/ghpvc/?username=Nedpereira&color=blueviolet)
+![profile-views](https://komarev.com/ghpvc/?username=Nedpereira&color=blue)
 
 </div>
 
