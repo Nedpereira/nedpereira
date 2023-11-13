@@ -6,10 +6,6 @@
 
 </div>
 
-<div>
-  <img align="center" alt="Banner-Ana" width="100%" src="https://github.com/Nedpereira/Nedpereira/blob/main/banner_welcome-us.png"/>
-</div>
-
 <div align="right">
 <br>
 
