@@ -16,6 +16,6 @@
 <p style="font-family: 'Roboto', sans-serif; font-size: 14px;">Meu nome é Neder Pereira, e sou desenvolvedor frontend web e mobile, trabalhando com tecnologia desde 2021.</p>
 
 ## ⚡ Portfólio
-<span>Veja meu portfólio: Em 🚧</span>
+<span>Em construção 🚧</span>
 
 
