@@ -1,4 +1,4 @@
-## Hello, I'm Neder! 👋
+## Hello👋
 
 <div align="right">
 
