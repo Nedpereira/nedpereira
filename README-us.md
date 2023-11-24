@@ -6,17 +6,24 @@
 
 </div>
 
-<div align="right">
-<br>
+<table width="100%">
+  <tr>
+    <td width="80%">
+      <p>My name is Neder Pereira, and I'm a frontend web and mobile developer. I've been working with technology since 2021.</p>
+    </td>
+    <td width="20%" align="right">
+      <img src="https://komarev.com/ghpvc/?username=Nedpereira&color=blue" alt="profile-views" />
+    </td>
+  </tr>
+</table>
 
-![profile-views](https://komarev.com/ghpvc/?username=Nedpereira&color=blue)
+## ⚡ Portfólio
 
-</div>
+### UX/UI Design
+- [Figma login project](https://www.figma.com/file/kUWJN7CsLUjymTcoD4lxqF/Project-%7C-Login?type=design&node-id=0%3A1&mode=design&t=u4Lyhb57m4nz6PfS-1)
 
-<p style="font-family: 'Roboto', sans-serif; font-size: 14px;">My name is Neder Pereira, and I'm a frontend web and mobile developer. I've been working with technology since 2021.</p>
-
-## ⚡ Portfolio
-<span>Under construction 🚧</span>
+### Web/Mobile Development
+<span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Under construction 🚧</span>
 
 ## ⚡ Technologies
 
