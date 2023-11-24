@@ -6,16 +6,23 @@
 
 </div>
 
-<div align="right">
-<br>
-
-![profile-views](https://komarev.com/ghpvc/?username=Nedpereira&color=blue)
-
-</div>
-
-<p>Meu nome é Neder Pereira, e sou desenvolvedor frontend web e mobile, trabalhando com tecnologia desde 2021.</p>
+<table width="100%">
+  <tr>
+    <td width="80%">
+      <p>Meu nome é Neder Pereira, e sou desenvolvedor frontend web e mobile, trabalhando com tecnologia desde 2021.</p>
+    </td>
+    <td width="20%" align="right">
+      <img src="https://komarev.com/ghpvc/?username=Nedpereira&color=blue" alt="profile-views" />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Portfólio
+
+### UX/UI Design
+- [Projeto login no Figma](https://www.figma.com/file/kUWJN7CsLUjymTcoD4lxqF/Project-%7C-Login?type=design&node-id=0%3A1&mode=design&t=u4Lyhb57m4nz6PfS-1)
+
+### Desenvolvimento Web/Mobile
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Em construção 🚧</span>
 
 ## ⚡ Tecnologias
