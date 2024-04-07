@@ -19,10 +19,6 @@
 
 ## ⚡ Portfólio
 
-### UX/UI Design
-- [Figma login project](https://www.figma.com/file/kUWJN7CsLUjymTcoD4lxqF/Project-%7C-Login?type=design&node-id=0%3A1&mode=design&t=u4Lyhb57m4nz6PfS-1)
-
-### Web/Mobile Development
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Under construction 🚧</span>
 
 ## ⚡ Technologies
