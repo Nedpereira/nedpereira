@@ -19,7 +19,8 @@
 
 ## ⚡ Portfólio
 
-<span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Em construção 🚧</span>
+<span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Aqui estão alguns dos meus projetos ao vivo:</span>
+- [Gerador de senha segura](https://securepwd.com/)
 
 ## ⚡ Tecnologias
 
