@@ -9,7 +9,7 @@
 <table width="100%">
   <tr>
     <td width="80%">
-      <p>My name is Neder Pereira, and I'm a frontend web and mobile developer. I've been working with technology since 2021.</p>
+      <p>My name is Neder Pereira, and I'm a frontend web and mobile developer.</p>
     </td>
     <td width="20%" align="right">
       <img src="https://komarev.com/ghpvc/?username=Nedpereira&color=blue" alt="profile-views" />
