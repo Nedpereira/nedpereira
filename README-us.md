@@ -23,6 +23,7 @@
 
 - [MeOrganize | Organize links, anotações e senhas de forma prática](https://meorganize.com.br/)
 - [Secure password generator](https://securepwd.com/)
+- [Create a Special Page ✨ for any occasion!](https://www.paginaespecial.com/)
 
 ## ⚡ Technologies
 
