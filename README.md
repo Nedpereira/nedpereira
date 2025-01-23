@@ -23,6 +23,7 @@
 
 - [MeOrganize | Organize links, anotações e senhas de forma prática](https://meorganize.com.br/)
 - [Gerador de senha segura](https://securepwd.com/)
+- [Crie uma Página Especial✨ para qualquer ocasião!](https://www.paginaespecial.com/)
 
 ## ⚡ Tecnologias
 
@@ -66,10 +67,5 @@ Design:
 
 ## ⚡ Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nedpereiira)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nederpereira/)
 
-## ⚡ Conecte-se comigo no Mundo dos Jogos
-
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198871026847/)
-[![Epic Games](https://img.shields.io/badge/-Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white)](https://store.epicgames.com/pt-BR/u/fa9bc971dd834b48ac83e226949c042a)
