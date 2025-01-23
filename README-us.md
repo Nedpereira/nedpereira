@@ -65,10 +65,5 @@ Design:
 
 ## ⚡ Connect with me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nedpereiira)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nederpereira/)
 
-## ⚡ Connect with me on Gaming World
-
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198871026847/)
-[![Epic Games](https://img.shields.io/badge/-Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white)](https://store.epicgames.com/pt-BR/u/fa9bc971dd834b48ac83e226949c042a)
