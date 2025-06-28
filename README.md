@@ -22,7 +22,7 @@
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Aqui estão alguns dos meus projetos ao vivo:</span>
 
 - [MeOrganize | Organize links, anotações e senhas de forma prática](https://meorganize.com.br/)
-- [Gerador de senha segura](https://securepwd.com/)
+- [Gerador de senha segura](https://primekey.netlify.app/)
 - [Crie uma Página Especial✨ para qualquer ocasião!](https://www.paginaespecial.com/)
 
 ## ⚡ Tecnologias
