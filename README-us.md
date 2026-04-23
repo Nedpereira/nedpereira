@@ -21,11 +21,9 @@
 
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Here are some of my live projects:</span>
 
-- **Garantia Simples** - Never lose money with expired warranties again - [Visit](https://www.garantiasimples.com.br/)
+- **Vencely** - Stop charging on the fly - [Visit](https://www.garantiasimples.com.br/)
 
 - **MeOrganize** - Organize links, notes and passwords in a practical way - [Visit](https://meorganize.com.br/)
-
-- **Secure Password Generator** - Tool to create secure and complex passwords - [Visit](https://primekey.netlify.app/)
 
 ## ⚡ Technologies
 
