@@ -21,8 +21,6 @@
 
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Aqui estão alguns dos meus projetos ao vivo:</span>
 
-- **Vencely** - Pare de cobrar no improviso - [Acessar](https://vencely.com.br/)
-
 - **MeOrganize** - Organize links, anotações e senhas de forma prática - [Acessar](https://meorganize.com.br/)
 
 ## ⚡ Tecnologias
