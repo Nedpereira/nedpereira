@@ -21,8 +21,6 @@
 
 <span style="font-family: 'Roboto', sans-serif; font-size: 14px;">Here are some of my live projects:</span>
 
-- **Vencely** - Stop charging on the fly - [Visit](https://www.garantiasimples.com.br/)
-
 - **MeOrganize** - Organize links, notes and passwords in a practical way - [Visit](https://meorganize.com.br/)
 
 ## ⚡ Technologies
